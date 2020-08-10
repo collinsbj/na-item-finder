@@ -1,0 +1,399 @@
+[
+	{
+		"id": 1,
+		"name": "Aaron",
+		"description": "He fires music bullets at enemies. On Death: fires 5 music bullets.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 2,
+		"name": "Adam",
+		"description": "He shoots enemies automatically.",
+		"hp": 4,
+		"evolves_from": null,
+		"evolves_to": "Adam II",
+		"type": "pet"
+	},
+	{
+		"id": 3,
+		"name": "Adam II",
+		"description": "He fires double bullets at enemies automatically.",
+		"hp": 4,
+		"evolves_from": "Adam",
+		"evolves_to": "Adam III",
+		"type": "pet"
+	},
+	{
+		"id": 4,
+		"name": "Adam III",
+		"description": "He fires triple bullets at enemies automatically. On Death: fire 3 big bullets.",
+		"hp": 6,
+		"evolves_from": "Adam II",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 5,
+		"name": "Alien Baby",
+		"description": "He fires a heat-seeking bullet at enemies automatically.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Alien Baby X",
+		"type": "pet"
+	},
+	{
+		"id": 6,
+		"name": "Alien Baby X",
+		"description": "He fires two heat-seeking bullets at enemies automatically.",
+		"hp": 6,
+		"evolves_from": "Alien Baby",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 7,
+		"name": "Angry Teapot",
+		"description": "Increase your rate of fire when he follows you. On Death: Temporarily greatly increase rate of fire",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 8,
+		"name": "Batu",
+		"description": "Full of confidence! He will actively attack the enemies who are close to you",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 9,
+		"name": "Blue Brick",
+		"description": "This little brick blocks enemies' bullets. On Death: you have a chance to get another Blue Brick.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 10,
+		"name": "Blue Doctor",
+		"description": "He collects hearts and has a chance to give you shields. On Death: drop random shields.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 11,
+		"name": "Cactus Baby",
+		"description": "She causes damage to anyone she touches.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Cactus Baby II",
+		"type": "pet"
+	},
+	{
+		"id": 12,
+		"name": "Cactus Baby II",
+		"description": "She causes damage to anyone she touches, and fires penetrating bullets randomly.",
+		"hp": 5,
+		"evolves_from": "Cactus Baby",
+		"evolves_to": "Cactus Baby III",
+		"type": "pet"
+	},
+	{
+		"id": 13,
+		"name": "Cactus Baby III",
+		"description": "She causes damage to anyone she touches, and fire more penetrating bullets randomly. On Death: fire a huge amount of penetrating bullets.",
+		"hp": 4,
+		"evolves_from": "Cactus Baby II",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 14,
+		"name": "Eight-Ball",
+		"description": "This little ball blocks enemies' bullets.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 15,
+		"name": "Fire Devil",
+		"description": "He shoots a fireball at enemies.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Flame Devil",
+		"type": "pet"
+	},
+	{
+		"id": 16,
+		"name": "Flame Devil",
+		"description": "He shoots two fireballs at enemies. On Death: fire a huge amount of fireballs.",
+		"hp": 5,
+		"evolves_from": "Fire Devil",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 17,
+		"name": "Flower",
+		"description": "She fires split bullets at enemies automatically. On Death: damage all enemies in the room.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 18,
+		"name": "Ges",
+		"description": "He fires a laser to attack enemies.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 19,
+		"name": "Ghost Baby",
+		"description": "She fires penetrating bullets at enemies automatically. On Death: protects you from damage for a short time.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 20,
+		"name": "Grabber",
+		"description": "He collects coins and has a chance to give you random pickups. On Death: drop random coins.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 21,
+		"name": "Happy Kendama",
+		"description": "Increase your weapon's range when he follows you. On Death: temporarily greatly increase your weapon's range",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 22,
+		"name": "Iron Windmill",
+		"description": "This little windmill deals melee damage when it touches an enemy. On Death: you get 3 angry sprites.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 23,
+		"name": "Jack",
+		"description": "He fires bullets in random directions.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Jack II",
+		"type": "pet"
+	},
+	{
+		"id": 24,
+		"name": "Jack II",
+		"description": "He fires a bomb in random direction.",
+		"hp": 6,
+		"evolves_from": "Jack",
+		"evolves_to": "Jack III",
+		"type": "pet"
+	},
+	{
+		"id": 25,
+		"name": "Jack III",
+		"description": "He throws a bomb in random directions. On Death: throw 5 bombs at once.",
+		"hp": 6,
+		"evolves_from": "Jack II",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 26,
+		"name": "Karsa",
+		"description": "A crazy girl who throws bombs above enemies.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 27,
+		"name": "Lethal Perfume",
+		"description": "Increase your weapon damage when she follows you. On Death: temporarily greatly increase your weapon damage",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 28,
+		"name": "Little Bear",
+		"description": "He fires a bouncy bullet at enemies automatically.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Little Panda",
+		"type": "pet"
+	},
+	{
+		"id": 29,
+		"name": "Little Panda",
+		"description": "He fires two bouncy bullets at enemies automatically.",
+		"hp": 6,
+		"evolves_from": "Little Bear",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 30,
+		"name": "Nod-8",
+		"description": "He will fire a missile to track enemies",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet",
+		"image": "Nod"
+	},
+	{
+		"id": 31,
+		"name": "Peter",
+		"description": "A playful kitty. He collects hearts and bring you moldy hearts. On Death: drop random number of hearts.",
+		"hp": 4,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 32,
+		"name": "Rock",
+		"description": "This strange rock can block enemies' bullets.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Sea Monster",
+		"type": "pet"
+	},
+	{
+		"id": 33,
+		"name": "Sea Monster",
+		"description": "This little monster damages enemies who touch it.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 34,
+		"name": "Shy Mushroom",
+		"description": "Increase your jump height when he follows you. On Death: temporarily greatly increase your jump height",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 35,
+		"name": "Snow Boy",
+		"description": "He can throw a snowball which freezes enemies.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Snow Brother",
+		"type": "pet"
+	},
+	{
+		"id": 36,
+		"name": "Snow Brother",
+		"description": "He can throw two snowballs which freeze enemies. On Death: fire a huge amount of snowballs.",
+		"hp": 5,
+		"evolves_from": "Snow Boy",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 37,
+		"name": "Tiny Mummy",
+		"description": "He can block enemies' bullets, and may fire two bullets when attacked.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": "Tiny Mummy II",
+		"type": "pet"
+	},
+	{
+		"id": 38,
+		"name": "Tiny Mummy II",
+		"description": "He can block enemies' bullets, and may fire four bullets when attacked. On Death: drop half a heart.",
+		"hp": 5,
+		"evolves_from": "Tiny Mummy",
+		"evolves_to": "Tiny Mummy III",
+		"type": "pet"
+	},
+	{
+		"id": 39,
+		"name": "Tiny Mummy III",
+		"description": "He can block enemies' bullets, and may fire eight bullets when attacked. On Death: drop a heart.",
+		"hp": 4,
+		"evolves_from": "Tiny Mummy II",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 40,
+		"name": "Vibrant Ball",
+		"description": "This little ball can block all kinds of bullets, and will explode after taking a certain number of hits.  On Death: It will explode.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 41,
+		"name": "Wild Monkey",
+		"description": "This little monkey can fire bullets at enemies.",
+		"hp": 8,
+		"evolves_from": null,
+		"evolves_to": "Wukong",
+		"type": "pet"
+	},
+	{
+		"id": 42,
+		"name": "Wukong",
+		"description": "Monkey king is back! He can attack enemies with his legendary staff.",
+		"hp": 6,
+		"evolves_from": "Wild Monkey",
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 43,
+		"name": "Yano",
+		"description": "She throws a spear to attack enemies.",
+		"hp": 6,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	},
+	{
+		"id": 44,
+		"name": "Zombie Sister",
+		"description": "She shoots poison bullets at enemies. She splits into two zombie sisters after getting hurt.",
+		"hp": 4,
+		"evolves_from": null,
+		"evolves_to": null,
+		"type": "pet"
+	}
+]

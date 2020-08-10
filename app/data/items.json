@@ -1,0 +1,2046 @@
+[
+	{
+		"image": null,
+		"name": "2077",
+		"description": "This is the future, and you're a big dreamer. The more shields you have, the more damage your weapon does.",
+		"id": 1,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Accidental Wealth",
+		"description": "Get 250 coins. This is what you need.",
+		"id": 2,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Acorn",
+		"description": "Your eggs can block bullets from enemies.",
+		"id": 3,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Advanced Knife",
+		"description": "The more shields you have, the more melee damage you do.",
+		"id": 4,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Agent Watch",
+		"description": "Each time you pick up a key, your weapon damage will increase. Each time you use a key, your weapon damage will reduce.",
+		"id": 5,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Air Force Medal",
+		"description": "Increase your weapon damage when you are in the air.",
+		"id": 6,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Alien Bomb",
+		"description": "Launches 10 heat-seeking bullets after the bomb explodes.",
+		"id": 7,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Alien Tech",
+		"description": "There's a chance you'll fire a heat-seeking bullet.",
+		"id": 8,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Amethyst Necklace",
+		"description": "Every time you pick up a coin, there's a chance you'll get extra crystals.",
+		"id": 9,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ancient Mask",
+		"description": "You have a chance to recover hearts each time you kill an enemy with bombs.",
+		"id": 10,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Annoying Hat",
+		"description": "You have a chance to drop extra crystals when you get hurt.",
+		"id": 11,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Atlantis Bubble",
+		"description": "Some of your bullets have shields that can block enemy bullets.",
+		"id": 12,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bad Apple",
+		"description": "Your poison runs through their veins. All your bullets now deal poison damage.",
+		"id": 13,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bamboo Dragonfly",
+		"description": "If you're down to half a heart, you'll gain the ability to fly.",
+		"id": 14,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Battle Pass",
+		"description": "Pay to Win! The more coins you have, the more bullets you can shoot.\n100 coins per extra bullet.",
+		"id": 15,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bear Pendant",
+		"description": "Every time you use a key, there's a chance you'll drop extra eggs.",
+		"id": 16,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Beast Amulet",
+		"description": "It's raw power and passion, but hard to control. Reduce your rate of fire but greatly increase your weapon damage.",
+		"id": 17,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Beehive",
+		"description": "There's a chance you'll fire multiple bullets.",
+		"id": 18,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Beggar's Card",
+		"description": "While in this room, each time you pick something up, your weapon damage will increase.",
+		"id": 19,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bent Spoon",
+		"description": "98%....99%.... Add a crystal container and increase your gun's damage.",
+		"id": 20,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Berserker Blood",
+		"description": "The fury drive your body. The fewer hearts you have, the more bullets you can shoot.",
+		"id": 21,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Big Daddy",
+		"description": "You're immune to explosion damage.",
+		"id": 22,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Birthday Cake",
+		"description": "A cake with \"HAPPY BIRTHDAY\" written on it. You are bigger and have the chance to recover hearts when you get hurt.",
+		"id": 23,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Black Box",
+		"description": "Every time you use a key, there's a chance you'll drop extra shields.",
+		"id": 24,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Black Friday",
+		"description": "It's shopping time! Everything in the shop is half price!",
+		"id": 25,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Black Rum",
+		"description": "When you use a bomb, all your eggs will explode.",
+		"id": 26,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Blasting Cap 101",
+		"description": "Your bomb will create a cross-shaped blast.",
+		"id": 27,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Blasting Cap 5000",
+		"description": "Your bomb will create an X-shaped blast.",
+		"id": 28,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Blue Protocol",
+		"description": "Let it guide you... Add shields. Upgrade your weapon.",
+		"id": 29,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Blueberry Cake",
+		"description": "You will drop extra shields if you hatch an empty egg.",
+		"id": 30,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bodyguard Glasses",
+		"description": "Easier to aim without glare in your eyes... Increase your weapon's damage.",
+		"id": 31,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Boom Gloves",
+		"description": "Kill enough enemies, and you'll drop extra bombs.",
+		"id": 32,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Brave Cookies",
+		"description": "B.A.D. (Brave And Delicious). Add shields and a heart container.",
+		"id": 33,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Broccoli",
+		"description": "Healthy food! Contains a wide variety of vitamins! Add a heart container.",
+		"id": 34,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Bullet Crown",
+		"description": "Each time an enemy is killed in this room, your weapon bullets increase.",
+		"id": 35,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "B-Virus",
+		"description": "Each time you kill an enemy, there's a chance it will explode.",
+		"id": 36,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Candy Cane",
+		"description": "The more pets you have, the faster you can shoot.",
+		"id": 37,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Candy Corn",
+		"description": "The more pets you have, the farther you can shoot.",
+		"id": 38,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Canned Cat Food",
+		"description": "You get some gifts from cats. Also add a heart container.",
+		"id": 39,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Carp Streamer",
+		"description": "It catches the wind - just like you! You can make an extra jump.",
+		"id": 40,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Cat Medallion",
+		"description": "This cat-faced amulet vibrates softly around magic. The fewer crystals you have, the more damage your weapon does.",
+		"id": 41,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Chemical Burn",
+		"description": "The explosion leaves a burst of fire behind.",
+		"id": 42,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Cherry Taste",
+		"description": "There's a chance your bullet will split into extra bullets. We know it's tempting, but don't lick any.",
+		"id": 43,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Chicken Burger",
+		"description": "You will drop extra hearts if you hatch an empty egg.",
+		"id": 44,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Chocolate Coin",
+		"description": "Every time your pet evolves, you'll drop coins.",
+		"id": 45,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Chocolate Cookies",
+		"description": "Every time your pet evolves, you'll drop a bomb.",
+		"id": 46,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Clay Doll",
+		"description": "Art is an explosion! There's a chance that killing an enemy will release an explosion from you.",
+		"id": 47,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Clown Hat",
+		"description": "There's a chance you'll fire a fake rat. And who wouldn't be scared of that?",
+		"id": 48,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Coin Bomb",
+		"description": "The coin will explode after 3 seconds if you haven't picked it up. Time is money, right?",
+		"id": 49,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Combat Helmet",
+		"description": "The more shields you have, the more bullets your weapon shoots.",
+		"id": 50,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Cooling System",
+		"description": "Cool down your gun! All your bullets now deal ice damage.",
+		"id": 51,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Creambeer",
+		"description": "A beer that is certainlynot a milkshake. Add a heart container and a crystal container.",
+		"id": 52,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Crown of Thorns",
+		"description": "Deal melee damage to enemies who make contact with you.",
+		"id": 53,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Crystal Hard Candy",
+		"description": "Every time your pet evolves, you'll drop 2 crystals.",
+		"id": 54,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Cursed Coin",
+		"description": "Turn all wooden chests into cursed chests.",
+		"id": 55,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Cyborg",
+		"description": "Reduce your heart containers and add shields. Also increase your weapon's damage.",
+		"id": 56,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Dance Mask",
+		"description": "Upgrade your gun if you get hurt while in this room.",
+		"id": 57,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Danger Sign",
+		"description": "Your gun is full of electricity! All your bullets now deal electric damage.",
+		"id": 58,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Dangerous Mine",
+		"description": "That sound crazy or crazy AWESOME? Every time you jump, you leave a mine behind you.",
+		"id": 59,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Dangerous Receipt",
+		"description": "You receive delivery of a batch of bombs.",
+		"id": 60,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Dark Side",
+		"description": "If you are down to half a heart, you'll immediately deal damage to all enemies.",
+		"id": 61,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Death Believer",
+		"description": "Kill enough enemies, and you'll drop extra hearts.",
+		"id": 62,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Demon Book",
+		"description": "You have a chance to get 1 angry sprite each time you kill an enemy by bombs.",
+		"id": 63,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Demon Wings",
+		"description": "A little sacrifice goes a long way... Trade one heart container for the ability to fly.",
+		"id": 64,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Devil Horn",
+		"description": "These let you increase your weapon damage and melee damage, Don't worry about the sudden craving for flesh.",
+		"id": 65,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Devil Hotline",
+		"description": "Double your melee attack damage when you are in the air.",
+		"id": 66,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Devil's Trade",
+		"description": "Each time you get hurt, there's a chance you'll take double damage... or no damage at all.",
+		"id": 67,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Dimensional Bags",
+		"description": "You have a chance to receive random goodies when you get hurt.",
+		"id": 68,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Divinity",
+		"description": "Your soul swells and you feel your feet lift off the ground... Gain the ability of flight and increase your movement speed.",
+		"id": 69,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Double Yolks",
+		"description": "Two at a time baby, yeah! Double the number of eggs you have.",
+		"id": 70,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Doughnut",
+		"description": "The more eggs you have, the more bullets you will fire.",
+		"id": 71,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Drilling Warhead",
+		"description": "This is going to hurt... Increase your rate of fire and weapon damage.",
+		"id": 72,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Earth Bread",
+		"description": "An edible root known only to the Dwarves. Add a heart container.",
+		"id": 73,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "E-Sports Headset",
+		"description": "Git gud. Increase your rate of fire and movement speed.",
+		"id": 74,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Elastic Gel",
+		"description": "The victory of science! Your bullet will randomly rebound when it hits the wall.",
+		"id": 75,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Electric Drill",
+		"description": "Each time you kill an enemy with melee damage, there's a chance you'll gain a bomb.",
+		"id": 76,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Electric Sheep",
+		"description": "Do androids dream? When you have shields, you can make an extra jump.",
+		"id": 77,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Elf Bread",
+		"description": "A bite can keep you going all day. Increase your movement speed and recover a heart.",
+		"id": 78,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Emerald Bracelet",
+		"description": "Every time you pick up a coin, there's a chance you'll get extra bombs.",
+		"id": 79,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Empty Can",
+		"description": "If you don't have a key, you can use an egg instead.",
+		"id": 80,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Energy Cube",
+		"description": "Each time you activate the Portal Stone, there's a chance of getting a shield.",
+		"id": 81,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Eric's Candle",
+		"description": "Your melee attack deals fire damage.",
+		"id": 82,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Espresso",
+		"description": "Feel that caffeine hit? It's BULLET TIME. Increase your rate of fire.",
+		"id": 83,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Eternal Stone",
+		"description": "You can manually cancel the hatching process of the egg by pressing [Cancel Key].",
+		"id": 84,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Evil Bracelet",
+		"description": "Every time you use a key, there's a chance you'll get an angry sprite.",
+		"id": 85,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Fanatic Mask",
+		"description": "You have a chance to recover hearts when you get hurt by an explosion.",
+		"id": 86,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Fatal Dance",
+		"description": "You will shoot straight down while you're in the air.",
+		"id": 87,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Film Magazine",
+		"description": "Now you know Gun Fu. Add extra bullets per shot and increase your weapon's range.",
+		"id": 88,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Firecrackers",
+		"description": "There's a chance this bomb will drop a pickup after it explodes.",
+		"id": 89,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Fission Device",
+		"description": "There's a chance your bullet will split into extra bullets. Stay out of the danger zone.",
+		"id": 90,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Flowerpot",
+		"description": "There's a chance your bullet will split into extra bullets. A beautiful display of death.",
+		"id": 91,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Forbidden Mask",
+		"description": "You got a promotion! Enhance your stats in all areas.",
+		"id": 92,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Fruit Popsicle",
+		"description": "It's always summer when you're eating a popsicle. Add a heart container.",
+		"id": 93,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Frying Pan",
+		"description": "There's a chance that you'll block bullets fired at you.",
+		"id": 94,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Furious Chicken",
+		"description": "The more eggs you have, the more melee damage you do.",
+		"id": 95,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Future Tech",
+		"description": "Stylish eye protection, with added benefits. Add shields and increase your rate of fire.",
+		"id": 96,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gamma Ray",
+		"description": "Ain't nothing gonna stop you now! Your bullets can pass through walls.",
+		"id": 97,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Garand Clip",
+		"description": "Mow 'em down. Add extra bullets per shot and increase your weapon damage.",
+		"id": 98,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gas Mask",
+		"description": "There's a chance you'll fire a poison bullet.",
+		"id": 99,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ghost Bottle",
+		"description": "Launches 10 piercing bullets after the bomb explodes.",
+		"id": 100,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ghost Nail",
+		"description": "There's a chance you'll fire a piercing bullet.",
+		"id": 101,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ghost Shell",
+		"description": "You have a chance to gain shields when you get hurt. There are some questions you can't avoid.",
+		"id": 102,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Giant Barbecue",
+		"description": "Trade your IQ for POWER! Add a heart container. Increase your weapon damage, but reduce your rate of fire.",
+		"id": 103,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gingerbread Man",
+		"description": "If an attack kills you, you'll exchange an egg for half a heart.",
+		"id": 104,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gladiator Helmet",
+		"description": "Increase your melee damage every time you get hurt in the current room.",
+		"id": 105,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Go Board",
+		"description": "Winning is positioning, timing... and being the last alive. Add extra bullets per shot and increase your movement speed.",
+		"id": 106,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Apple",
+		"description": "The relic of the first civilization. Upgrade your weapon. Increase your movement speed slightly.",
+		"id": 107,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Bell",
+		"description": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra coins.",
+		"id": 108,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Bird",
+		"description": "The more coins you have, the faster you can shoot.",
+		"id": 109,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Fist",
+		"description": "Each time you destroy a wooden box using melee damage, you gain 1 coin.",
+		"id": 110,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Skulls",
+		"description": "The more coins you have, the more melee damage you do.",
+		"id": 111,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Statuette",
+		"description": "You have a chance to get a guard sprite when you use coins. Don't you want to kiss it?",
+		"id": 112,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Teeth",
+		"description": "Oof. Hope you like soup. Drop coins when you get hurt.",
+		"id": 113,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Golden Torch",
+		"description": "The light is warm. Get an extra treasure room at each new level.",
+		"id": 114,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Grape Candy",
+		"description": "You will drop an extra crystal if you hatch an empty egg.",
+		"id": 115,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Green Cap",
+		"description": "This green cap will diminish you... That is, it will make you smaller. See the world from a new angle!",
+		"id": 116,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Grim Hood",
+		"description": "Each time an enemy is killed in this room, your weapon damage increases.",
+		"id": 117,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gum Bear",
+		"description": "Yeah! Increase the damage from all your pets.",
+		"id": 118,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Gunpowder Plot",
+		"description": "Each time you pick up a bomb, you get an extra one.",
+		"id": 119,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hacking Tool",
+		"description": "I got this! Keys are no longer a problem.",
+		"id": 120,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hair Dryer",
+		"description": "Let it blow your bullets farther, faster. Increase your weapon's range and rate of fire.",
+		"id": 121,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hand Mirror",
+		"description": "There's a chance you'll fire a ricocheting bullet.",
+		"id": 122,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hard Hat",
+		"description": "You won't take any environmental damage.",
+		"id": 123,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hard Mints",
+		"description": "Every time your pet evolves, you'll drop half a shield.",
+		"id": 124,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Headband",
+		"description": "The more times you jump, the more melee damage you do.",
+		"id": 125,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Heart Key",
+		"description": "If you don't have a key, you can use half a heart instead.",
+		"id": 126,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Heart Necklace",
+		"description": "Every time you use a key, there's a chance you'll drop extra hearts.",
+		"id": 127,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Heart of Fire",
+		"description": "You can revive after death, but you feel... tired. (Can only be used once.)",
+		"id": 128,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Heart of the Ocean",
+		"description": "The power of love! Add shields. Increase your weapon's damage.",
+		"id": 129,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hiccups",
+		"description": "You will get a random item if you get hurt 6 times in the same room.",
+		"id": 130,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hip Flask",
+		"description": "Take a shot. Take the shot. Rinse and repeat. Greatly increase your weapon damage.",
+		"id": 131,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hero Mask",
+		"description": "This is your calling. Increase your jump height and movement speed.",
+		"id": 132,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hot Chili",
+		"description": "Let your gun burn! All your bullets now deal fire damage.",
+		"id": 133,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Howard Reactor",
+		"description": "Hearts will be replaced by shields when they drop. The creator slightly modified the rules of the universe.",
+		"id": 134,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hungry Amulet",
+		"description": "Kill enough enemies in melee, you will recover half a heart.",
+		"id": 135,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Hunter Queen",
+		"description": "Your melee attacks cause enemies to explode when they die.",
+		"id": 136,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Immortal Heart",
+		"description": "This is a legendary trophy. You can revive after death. (Can only be used once.)",
+		"id": 137,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Imperial Force",
+		"description": "There's a chance you'll fire a laser. Whether or not it hits anything is another matter...",
+		"id": 138,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Inner Eye",
+		"description": "You can preview the description of an item without picking it up.",
+		"id": 139,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Inorganic Mod",
+		"description": "You have a chance to drop extra shields each time you kill an enemy.",
+		"id": 140,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Iron Crown",
+		"description": "There's a chance your bullet with create a beautiful firework.",
+		"id": 141,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Iron Frog",
+		"description": "Launches 10 bouncy bullets after the bomb explodes.",
+		"id": 142,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Iron Heart",
+		"description": "You will lose hearts first even if you have shields. You are gradually accepting this fact.",
+		"id": 143,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Jelly Beans",
+		"description": "You have a chance to shoot random element bullets.",
+		"id": 144,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Jewelry Box",
+		"description": "Every time you use a key, there's a chance you'll get a protective shell.",
+		"id": 145,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Kendo Mask",
+		"description": "There's a chance that you'll block melee damage from enemies.",
+		"id": 146,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Kinetic Blade",
+		"description": "Gain shields after killing enemies with melee damage.",
+		"id": 147,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "King's Crown",
+		"description": "Your weapon does more damage when you're at full hearts.",
+		"id": 148,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Knife and Fork",
+		"description": "Each time you kill an enemy with melee damage, there's a chance to get an egg.",
+		"id": 149,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Kongming Lantern",
+		"description": "You have a chance to get a guard sprite when you get hurt.",
+		"id": 150,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Last Hope",
+		"description": "You fight for humanity! After each battle, you might receive extra shields.",
+		"id": 151,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lemon Candy",
+		"description": "The more eggs you have, the more times you can jump.",
+		"id": 152,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lidless Eye",
+		"description": "It sees ...... EVERYTHING! Including your inner desires and fears. Maps are revealed in every level.",
+		"id": 153,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Like of the King",
+		"description": "You have the King's approval. Upgrade your weapon. Increase your bullet velocity.",
+		"id": 154,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lion Headgear",
+		"description": "The more pets you have, the more damage your gun does.",
+		"id": 155,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lipstick",
+		"description": "Don't get it on your teeth. The shop will now replenish.",
+		"id": 156,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lithium Battery",
+		"description": "There's a chance you'll fire an electric bullet.",
+		"id": 157,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Little Pickaxe",
+		"description": "A very useful tool. Reveal all nearby hidden rooms.",
+		"id": 158,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Locksmith",
+		"description": "If you don't have a key, you can use coins instead.",
+		"id": 159,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Lottery Tickets",
+		"description": "777 coins! You feel extremely lucky... and lonely.",
+		"id": 160,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mad Mask",
+		"description": "This IS the craziest thing you've ever seen. Greatly increase your rate of fire.",
+		"id": 161,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Magic Vortex",
+		"description": "Your weapon does more damage when your crystal containers are full. You have a big plan.",
+		"id": 162,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Magic Wand",
+		"description": "You have a chance to gain crystals when you get hurt.",
+		"id": 163,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Magical Bean",
+		"description": "This unbelievable bean will recover all your hearts and increase your weapon's range.",
+		"id": 164,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Magician Hat",
+		"description": "Each time you pick up a key, you get an extra one.",
+		"id": 165,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Maneki-Neko",
+		"description": "Meow... You get an extra bonus when you pick up coins.",
+		"id": 166,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Marshmallow",
+		"description": "When you're at full health, your eggs will never fail to hatch.",
+		"id": 167,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Matchbox",
+		"description": "If the egg touches stone - such as doors or chests - they'll both explode and disappear.",
+		"id": 168,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Medal of Honor",
+		"description": "It's about discipline. Increase your movement speed and your weapon damage.",
+		"id": 169,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Melting Calendar",
+		"description": "Movement speed increases.",
+		"id": 170,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Metal Crown",
+		"description": "There's a chance your bullet will create a beautiful firework.",
+		"id": 171,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Metal Panties",
+		"description": "Make them regret ever touching you. Drop 6 instant bombs when you get hurt.",
+		"id": 172,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mercenary Lord",
+		"description": "The more coins you have, the more damage your weapon does.",
+		"id": 173,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mercy Hood",
+		"description": "May the love be with you. Double the amount of hearts recovered.",
+		"id": 174,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Midnight Mask",
+		"description": "It's Friday! Increase your weapon's damage when you get hurt.",
+		"id": 175,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mini Radar",
+		"description": "BEEP. BEEP. BEEP. Mark all secrets on your map.",
+		"id": 176,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mjolnir",
+		"description": "Your melee attack deals electric damage.",
+		"id": 177,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Monk Hat",
+		"description": "Add a heart container and a crystal container. Keep the sun and rain off your face so you can concentrate on meditating.",
+		"id": 178,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Monocle",
+		"description": "You will drop an extra key if you hatch an empty egg.",
+		"id": 179,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Most Wanted List",
+		"description": "You get twice the coins after you kill enemies.",
+		"id": 180,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Motorcycle Helmet",
+		"description": "Increase your movement speed, weapon damage and melee damage.",
+		"id": 181,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mustard Poop",
+		"description": "Eggs can cause touch damage to enemies.",
+		"id": 182,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Mutated Orange",
+		"description": "This orange will make you SUPER strong. Increase your movement speed and weapon damage.",
+		"id": 183,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Nanotechnology",
+		"description": "After the bomb explodes, it will split into more bombs.",
+		"id": 184,
+		"type": "item"
+	},
+	{
+		"image": "Nerve_System_6",
+		"name": "Nerve System 6.0",
+		"description": "Increase your weapon damage and movement speed. Forget the sheep, you keep dreaming of unicorns...",
+		"id": 185,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Nightmare Mask",
+		"description": "You have a chance to get a evil sprite when you get hurt.",
+		"id": 186,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Night Vision",
+		"description": "Fire a special bullet every ten shots, causing greater damage to the enemy.",
+		"id": 187,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ninja Costume",
+		"description": "No one will ever see you coming. You can make an extra jump. Increase your melee damage.",
+		"id": 188,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Nougat",
+		"description": "Every time your pet evolves, you'll drop a key.",
+		"id": 189,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Onion Helmet",
+		"description": "You get a temporary protective shell per room.",
+		"id": 190,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ordinary Gloves",
+		"description": "100 push-ups, 100 sit-ups, 10km every day... your melee damage has skyrocketed!",
+		"id": 191,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pain Drop",
+		"description": "Fight through the pain. Let it give you strength. Increase you weapon damage and rate of fire.",
+		"id": 192,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Paper Plane",
+		"description": "Let it catch the breeze... Increase your weapon’s range and damage.",
+		"id": 193,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Paper Windmills",
+		"description": "Exhale as you pull the trigger to give your bullets a bit more oomph. Increase your rate of fire and weapon damage.",
+		"id": 194,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Party Popper",
+		"description": "Launches 10 bullets after the bomb explodes.",
+		"id": 195,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pegasus",
+		"description": "You feel strong, feathery wings at your back. Flap them and lift into the air!",
+		"id": 196,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pen No. 7",
+		"description": "You can use keys as bombs when you don't have any bombs.",
+		"id": 197,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pepper Soup",
+		"description": "It'll bring tears to your eyes! ...Why, because it's so tasty, of course! Add a heart container.",
+		"id": 198,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Persian Turban",
+		"description": "The beautiful gem in this turban functions as a number of crystal containers.",
+		"id": 199,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ping Pong",
+		"description": "There's a chance you'll fire a bouncy bullet.",
+		"id": 200,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pink Dart",
+		"description": "Let the feathered tip wing you on your way to victory. Increase your weapon's range and rate of fire.",
+		"id": 201,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Plan B",
+		"description": "Keys are not the only answer! You have a chance to unlock chests or doors with explosions.",
+		"id": 202,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Plague Mask",
+		"description": "You have a chance of recovering half a heart each time you kill an enemy.",
+		"id": 203,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Player Two Ready",
+		"description": "Don't let up! The more enemies you hit without stopping, the more weapon damage you'll do.",
+		"id": 204,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Police Badge",
+		"description": "Add extra bullets per shot and increase your bullet velocity.",
+		"id": 205,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Popcorn",
+		"description": "All your bullets will explode on impact or after they travel a certain distance. Enjoy the show.",
+		"id": 206,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Power Diamond",
+		"description": "ABSOLUTE POWER! Upgrade your weapon, increase both your melee and weapon damage.",
+		"id": 207,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Power Helmet",
+		"description": "If you get hurt in this room, a ring of lightning will surround you and damage nearby enemies.",
+		"id": 208,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Prophet Chip",
+		"description": "Kill enough enemies, and you'll drop extra shields.",
+		"id": 209,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Protein Powder",
+		"description": "The more eggs you have, the further you can shoot.",
+		"id": 210,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Pumpkin Head",
+		"description": "When you get hurt, you will explode. Anyone who survives might learn a lesson.",
+		"id": 211,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Quantum Core",
+		"description": "Increase your gun's damage and add shields.An incredible source of power. You've no idea how it works. Strings, maybe?",
+		"id": 212,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rabbit Ears",
+		"description": "You wouldn't wear them if they weren't useful, and these let you make an extra jump. Also, they're just like super cute.",
+		"id": 213,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rabbit Doll",
+		"description": "[Characteristics] Saya has two different battle forms for ranged attacks and melee attacks. Use  to switch weapons between the gun and the katana.",
+		"id": 214,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rainbow Candy",
+		"description": "Every time your pet evolves, you'll get a gift box.",
+		"id": 215,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rainforest Souvenir",
+		"description": "Kill enough enemies, and you'll drop extra eggs.",
+		"id": 216,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Red Flag",
+		"description": "Instead of throwing a bomb, place a mine on the ground.",
+		"id": 217,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Red Hat",
+		"description": "It's time to play! It's time to have some fun. Jumping can cause damage to enemies.",
+		"id": 218,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ready Aim Eye",
+		"description": "Each time an enemy is killed in this room, your eye gets sharper, increasing your weapon attack speed.",
+		"id": 219,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ritual Mask",
+		"description": "Add a crystal container. You can recover hearts by using 5 crystals,",
+		"id": 220,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Robot Armor",
+		"description": "You have a chance to drop extra shields when you get hurt.",
+		"id": 221,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rocket Mod",
+		"description": "There's a chance you'll fire a heat-seeking rocket.",
+		"id": 222,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rogue's Badge",
+		"description": "While in this room, each time you pick something up, your movement speed and jump height will increase.",
+		"id": 223,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Roly-Poly Toy",
+		"description": "You will drop an extra bomb if you hatch an empty egg.",
+		"id": 224,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Royal Antlers",
+		"description": "Increase your movement speed. You'll drop extra coins when you use keys.",
+		"id": 225,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Ruby Earrings",
+		"description": "Every time you pick up a coin, there's a chance you'll get extra hearts.",
+		"id": 226,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Running Shoes",
+		"description": "The sweet sneakers will increase your movement speed. Gotta go fast.",
+		"id": 227,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Rusty Key",
+		"description": "Every time you use a key, there's a chance you'll drop an extra bomb or an instant mine.",
+		"id": 228,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Sacred Tears",
+		"description": "You have a chance to get a protective shell each time you kill an enemy by bombs.",
+		"id": 229,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Samurai's Soul",
+		"description": "There's a chance you'll fire a big bullet.",
+		"id": 230,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Sapper Backpack",
+		"description": "Bombs explode bigger, brighter, and better.",
+		"id": 231,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Sapphire Ring",
+		"description": "Every time you pick up a coin, there's a chance you'll get extra shields.",
+		"id": 232,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Saturn Lollipop",
+		"description": "The more eggs you have, the faster you can shoot.",
+		"id": 233,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Scarlet Tale",
+		"description": "Increase your rate of fire if you get hurt while in this room.",
+		"id": 234,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Schrödinger's Bet",
+		"description": "Are you dead or are you alive? You won't know until you die and wake up... and there's a chance you might.",
+		"id": 235,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Screwdriver",
+		"description": "Kill enough enemies, and you'll drop extra keys.",
+		"id": 236,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Seals Patch",
+		"description": "You've worked for this. Upgrade your weapon. Increase your movement speed.",
+		"id": 237,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Seed of Stone",
+		"description": "Your bullet will create a platform on the wall.",
+		"id": 238,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Shadow Blade",
+		"description": "Nothing is True. Everything is Permitted. Do more weapon damage when you attack from behind.",
+		"id": 239,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Shadow Operation",
+		"description": "They'll never see you coming. Increase your weapon's range and movement speed.",
+		"id": 240,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Shaman Mask",
+		"description": "After you activate all the Portal Stones, you'll get some eggs.",
+		"id": 241,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Shark Bait",
+		"description": "You can use eggs as bombs when you don't have any bombs.",
+		"id": 242,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Shroud",
+		"description": "Add a crystal container. You can gain crystals after killing an enemy.",
+		"id": 243,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Silver Compass",
+		"description": "Reveal the truth. Show all rooms on your map.",
+		"id": 244,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Silver Brooch",
+		"description": "Every time you pick up a coin, there's a chance you'll get extra keys.",
+		"id": 245,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Slayer of Demons",
+		"description": "Kill enough enemies, and you'll get crystals.",
+		"id": 246,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Slingshot",
+		"description": "Pull back... Exhale slowly... Let go! TWANG! Add extra bullets per shot and increase your weapon's range.",
+		"id": 247,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Smiley Bomb",
+		"description": "Your bomb will clear a certain area of bullets.",
+		"id": 248,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Smithing Hammer",
+		"description": "Clang. Clang. Clang. Upgarde your weapon. Increase your weapon damage.",
+		"id": 249,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Snack Box",
+		"description": "Eggs will hatch random pickups instead of pets.",
+		"id": 250,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Snow Globe",
+		"description": "There's a chance you'll fire an ice bullet.",
+		"id": 251,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Soldier Mask",
+		"description": "Peekaboo! I see you! There's a chance your bullets will track enemies.",
+		"id": 252,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Soul Flask",
+		"description": "You hear whispers within the bottle... Add a heart container and recover some hearts.",
+		"id": 253,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Space Helmet",
+		"description": "To infinity... Increase your jump height.",
+		"id": 254,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Space Soda",
+		"description": "Atomized Cola, drink the space age! Add a heart container and increase your weapon damage slightly.",
+		"id": 255,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Space Spanner",
+		"description": "Each time you kill an enemy with melee damage, there's a chance to get a key.",
+		"id": 256,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Spartan Lineage",
+		"description": "The fewer hearts you have, the more damage your weapon does. SPARTAN!!!",
+		"id": 257,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Spear of Destiny",
+		"description": "Sometimes, the Fates just want someone dead. Increase your melee range.",
+		"id": 258,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Stark Module",
+		"description": "Increase your weapon damage and bullet velocity. Stark Brilliance(TM). (Stark is not responsible for any loss of limbs)",
+		"id": 259,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Steel Gear",
+		"description": "The more keys you have, the faster your weapon shoots.",
+		"id": 260,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Strange Mask",
+		"description": "Ssssssomebody stop me! Add extra bullets per shot and a shield.",
+		"id": 261,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Strawberry Candy",
+		"description": "The more pets you have, the more bullets your fire.",
+		"id": 262,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Sturdy Shield",
+		"description": "You've never felt stronger. Or better-looking. Add shields. Some attacks will deal no damage to you.",
+		"id": 263,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Sun Coin",
+		"description": "You can revive after death, but you feel a little... different.(Can only be used once.)",
+		"id": 264,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Super Logo",
+		"description": "You're at the top of your game. Upgrade your weapon. Increase your jump height and movement speed slightly.",
+		"id": 265,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Szechuan Sauce",
+		"description": "There's a chance you'll fire a flame bullet.",
+		"id": 266,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Tanghulu",
+		"description": "A stick of candied hawthorn. Add a heart container.",
+		"id": 267,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Telescopic Sight",
+		"description": "Increase your weapon's range. Also increase your jump height.",
+		"id": 268,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Tesla Coil",
+		"description": "A ring of lightning will surround you and damage nearby enemies.",
+		"id": 269,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "The Crowbar",
+		"description": "Your favorite weapon! Increase your melee attack damage.",
+		"id": 270,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "The Towel",
+		"description": "DON'T PANIC! You'll only lose half a heart when you get hurt.",
+		"id": 271,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Thunder Engine",
+		"description": "The more shields you have, the faster you fire.",
+		"id": 272,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Tobe Beef",
+		"description": "The best beef EVER. Add a heart container.",
+		"id": 273,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Toffee Apple",
+		"description": "Every time your pet evolves, you'll drop half a heart.",
+		"id": 274,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Toy Home Run Bat",
+		"description": "The more eggs you have, the more melee range you have.",
+		"id": 275,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Traveler Hood",
+		"description": "Travel farther than ever before. You can make an extra jump.",
+		"id": 276,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Treasure Map",
+		"description": "You can see a faint signature on the back - Captain Jack S....? Mark all hidden rooms on your map.",
+		"id": 277,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Turtle Hat",
+		"description": "There's a chance that you'll block damage taken from behind.",
+		"id": 278,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Unknown Mask",
+		"description": "An extravagant crystal mask. It can be used as a crystal container and adds a shield - because no one wants to hit it.",
+		"id": 279,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Vanilla Ice Cream",
+		"description": "The more eggs you have, the more damage your bullets do.",
+		"id": 280,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Virtual Assistant",
+		"description": "When you lose a shield, there's a chance you'll get a guardian sprite.",
+		"id": 281,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "V.O. Field",
+		"description": "If you're down to half a heart, you'll immediately drop a shield.",
+		"id": 282,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Void Coin",
+		"description": "There's a hole in the world... in your soul. Increase your weapon damage and rate of fire.",
+		"id": 283,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Wade Tech",
+		"description": "It looks easy enough to install... Upgrade your weapon. Increase your rate of fire.",
+		"id": 284,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "War Hammer",
+		"description": "Each time you kill an enemy with melee damage, there's a chance an instant bomb will drop.",
+		"id": 285,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Welding Mask",
+		"description": "You have a chance to drop extra keys when you get hurt by an explosion.",
+		"id": 286,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Whetstone",
+		"description": "While in this room, the more times you use your melee attack, the more damage it does.",
+		"id": 287,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Winged Hat",
+		"description": "The little wings are so darn cute. And they let you make an extra jump.",
+		"id": 288,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Wings of Wisdom",
+		"description": "You can fly now! Gain the ability of flight and reduces one heart container.",
+		"id": 289,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Wizard Sword",
+		"description": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra crystals.",
+		"id": 290,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "Worst Blowing Gum",
+		"description": "The more pets you have, the more times you can jump.",
+		"id": 291,
+		"type": "item"
+	},
+	{
+		"image": null,
+		"name": "X-Ray",
+		"description": "Your bullets can pass through enemies.",
+		"id": 292,
+		"type": "item"
+	}
+]
